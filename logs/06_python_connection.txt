@@ -1,0 +1,2 @@
+Python подключился к ZooKeeper
+/lab4-quorum = ok

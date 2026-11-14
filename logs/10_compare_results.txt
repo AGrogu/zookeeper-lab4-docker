@@ -1,0 +1,3 @@
+runs/no-fence/skills_2-A.csv — совпали все 19259 пар и их частоты
+runs/no-fence/skills_2-B.csv — совпали все 19259 пар и их частоты
+runs/with-fence/skills_2-B.csv — совпали все 19259 пар и их частоты

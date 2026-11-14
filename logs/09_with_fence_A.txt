@@ -1,0 +1,9 @@
+A ожидает лидерства, FENCING=1, тайм-аут сессии 10 с
+A стал лидером, epoch=1
+Сохранил чекпоинт после 10000 строк. ГОТОВ К SIGSTOP
+Connection dropped: socket connection broken
+Transition to CONNECTING
+Session has expired
+Продолжил расчёт после SIGCONT
+Всего=229388, по фильтру=3894, с навыками=2986, уникальных пар=19259, PostgreSQL + Python=1306
+A BadVersionError: запись отклонена, epoch=1

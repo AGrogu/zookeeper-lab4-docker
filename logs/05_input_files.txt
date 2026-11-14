@@ -1,0 +1,6 @@
+-rw-r--r--@ 1 macbook  staff   808M 21 окт.  03:51 data/it_vacancies_2024.csv
+-rw-------  1 macbook  staff   557K 14 нояб. 07:17 data/skills_2.csv
+skills,count
+PostgreSQL; Python,1306
+Git; Python,905
+Docker; Python,779

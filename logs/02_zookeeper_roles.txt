@@ -1,0 +1,19 @@
+NAME                          IMAGE                    COMMAND                  SERVICE   CREATED          STATUS          PORTS
+zookeeper-lab4-docker-zk1-1   zookeeper:3.9.6-jre-17   "/docker-entrypoint.…"   zk1       19 minutes ago   Up 19 minutes   127.0.0.1:2181->2181/tcp
+zookeeper-lab4-docker-zk2-1   zookeeper:3.9.6-jre-17   "/docker-entrypoint.…"   zk2       19 minutes ago   Up 19 minutes   127.0.0.1:2182->2181/tcp
+zookeeper-lab4-docker-zk3-1   zookeeper:3.9.6-jre-17   "/docker-entrypoint.…"   zk3       19 minutes ago   Up 19 minutes   127.0.0.1:2183->2181/tcp
+=== zk1 ===
+ZooKeeper JMX enabled by default
+Using config: /conf/zoo.cfg
+Client port found: 2181. Client address: localhost. Client SSL: false.
+Mode: follower
+=== zk2 ===
+ZooKeeper JMX enabled by default
+Using config: /conf/zoo.cfg
+Client port found: 2181. Client address: localhost. Client SSL: false.
+Mode: follower
+=== zk3 ===
+ZooKeeper JMX enabled by default
+Using config: /conf/zoo.cfg
+Client port found: 2181. Client address: localhost. Client SSL: false.
+Mode: leader
